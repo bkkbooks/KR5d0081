@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5d0081/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5d0081/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無為清靜長生真人至真語錄
+  date: '2015-08-29 02:03:16.703606'
+  source:
+    repository: kanripo
+    path: KR5d0081
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0081_000-CK-KZ.yaml, hash: 'sha256:cfde6f76fa4a2f7644766f8e060b0de6aaa56e1b16bb3bf089d41c7c8f737c39'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0081_000-CK-KZ.markers.yaml, hash: 'sha256:4288e18682eeeefb9c6adc703f1677cf8e4d361c8183158cd4fada64091b8021'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0081_CK-KZ_01p063a
+    span:
+    - body
+    - 0
+    - 9748
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:dfe532521b3acbcc02d8415f980751e83b4827be79fb0843fcce3fee81176467
